@@ -1,0 +1,38 @@
+[2022-06-29 18:21:42.872] [ControllerAlg] [info] call Init
+[2022-06-29 18:21:42.873] [ControllerAlg] [info] call start
+[2022-06-29 18:21:42.873] [ControllerAlg] [info] FilterManager has entered.
+[2022-06-29 18:21:42.874] [ControllerAlg] [info] ImgFilterProcess has entered.
+[2022-06-29 18:21:42.874] [ControllerAlg] [info] IMUFilter has entered
+[2022-06-29 18:21:47.887] [ControllerAlg] [info] Start Receive data.
+[2022-06-29 18:21:47.887] [ControllerAlg] [info] start ParseData thread.
+[2022-06-29 18:28:35.833] [ControllerAlg] [info] call Init
+[2022-06-29 18:28:35.834] [ControllerAlg] [info] call start
+[2022-06-29 18:28:35.835] [ControllerAlg] [info] FilterManager has entered.
+[2022-06-29 18:28:35.836] [ControllerAlg] [info] ImgFilterProcess has entered.
+[2022-06-29 18:28:35.836] [ControllerAlg] [info] IMUFilter has entered
+[2022-10-26 15:17:13.306] [ControllerAlg] [info] call Init
+[2022-10-26 15:17:13.308] [ControllerAlg] [info] call start
+[2022-10-26 15:17:13.308] [ControllerAlg] [info] FilterManager has entered.
+[2022-10-26 15:17:13.401] [ControllerAlg] [info] ImgFilterProcess has entered.
+[2022-10-26 15:17:13.401] [ControllerAlg] [info] IMUFilter has entered
+[2022-10-26 15:51:43.139] [ControllerAlg] [info] call Init
+[2022-10-26 15:51:43.140] [ControllerAlg] [info] call start
+[2022-10-26 15:51:43.140] [ControllerAlg] [info] FilterManager has entered.
+[2022-10-26 15:51:43.142] [ControllerAlg] [info] ImgFilterProcess has entered.
+[2022-10-26 15:51:43.142] [ControllerAlg] [info] IMUFilter has entered
+[2022-10-26 15:51:48.149] [ControllerAlg] [info] Start Receive data.
+[2022-10-26 15:51:48.149] [ControllerAlg] [info] start ParseData thread.
+[2022-10-26 15:58:28.124] [ControllerAlg] [info] call Init
+[2022-10-26 15:58:28.125] [ControllerAlg] [info] call start
+[2022-10-26 15:58:28.125] [ControllerAlg] [info] FilterManager has entered.
+[2022-10-26 15:58:28.126] [ControllerAlg] [info] ImgFilterProcess has entered.
+[2022-10-26 15:58:28.126] [ControllerAlg] [info] IMUFilter has entered
+[2022-10-26 15:58:33.139] [ControllerAlg] [info] Start Receive data.
+[2022-10-26 15:58:33.139] [ControllerAlg] [info] start ParseData thread.
+[2022-11-22 13:34:28.563] [ControllerAlg] [info] call Init
+[2022-11-22 13:34:28.564] [ControllerAlg] [info] call start
+[2022-11-22 13:34:28.564] [ControllerAlg] [info] FilterManager has entered.
+[2022-11-22 13:34:28.576] [ControllerAlg] [info] IMUFilter has entered
+[2022-11-22 13:34:28.576] [ControllerAlg] [info] ImgFilterProcess has entered.
+[2022-11-22 13:34:33.565] [ControllerAlg] [info] Start Receive data.
+[2022-11-22 13:34:33.566] [ControllerAlg] [info] start ParseData thread.
